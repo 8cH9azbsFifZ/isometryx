@@ -25,3 +25,9 @@ needs Adafruit Python BluefruitLE : https://github.com/adafruit/Adafruit_Python_
     python ./ble_client.py
 
 will save incomming data into out.csv file
+
+
+# References
+- https://www.reddit.com/r/climbharder/comments/doqioq/isometryx_opensource_digital_hangboard/
+- https://www.trainingbeta.com/the-simplest-finger-training-program/
+
