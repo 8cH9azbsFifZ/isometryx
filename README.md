@@ -20,6 +20,10 @@ TODO
 
 # BLE client
 
+```
+pip3 install Adafruit_BluefruitLE
+```
+
 needs Adafruit Python BluefruitLE : https://github.com/adafruit/Adafruit_Python_BluefruitLE
 
     python ./ble_client.py
